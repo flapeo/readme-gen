@@ -16,16 +16,16 @@ Just use common node commands (node index.js)
 Dont have a readme file inside of the folder because it will override/erase
 
 ## Testing Instructions
-undefined
+Just dont break it
 
 ## Contributers:
-Just dont break it
+Me myself and i, and google ofcourse!
 
 ## Github
 Here's the github REPO: Go to GitHub(https://github.com/flapeo)
 
 ## License's used
- license 1
+None
 
 Questions? Contact me!: 
-brayden@gmail.com
+spankryay23@gmail.com
